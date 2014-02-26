@@ -1,0 +1,66 @@
+#########################
+## Java compiled sources 
+########################
+
+*.class
+
+###########
+# Netbeans
+###########
+
+build/
+dist/
+nbproject/private/
+
+#############
+# Eclipse   #
+#############
+
+.classpath
+.project
+.settings/
+
+##################
+## Intellij IDEA #
+##################
+
+out/
+.idea/workspace.xml
+.idea/tasks.xml
+
+###################
+## MAVEN
+###################
+
+target/
+log/
+
+###################
+## O.S. detritus
+###################
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac crap
+.DS_Store
+
+# Linux/Unix backup files 
+*~
+
+###################
+# Project Folders #
+###################
+
+
+/Graphics/Background/
+/Temp/
+/doc/
+
